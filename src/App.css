@@ -22,10 +22,13 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  font-size: 30px;
 }
 
 .App-link {
+  font-size: 30px;
   color: #61dafb;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {

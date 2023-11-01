@@ -2,9 +2,9 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-accordion/
 
-#### `Youtube:` [Как создать Аккордеон Компонент в React за 7 минут ｜ React Accordion Component](https://youtu.be/uht6vUDd6BQ)
+#### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik/21)
 
-#### `VK Video:` [Как создать Аккордеон Компонент в React за 7 минут ｜ React Accordion Component](https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239023%2Fclub222570561%2Fpl_-222570561_-2)
+#### `Youtube:` [Как создать Аккордеон Компонент в React](https://youtu.be/uht6vUDd6BQ)
 
 ---
 
@@ -12,7 +12,9 @@
 
 #### `npm install`
 
-#### `npm start`
+#### `npm run start`
+
+#### `npm run build`
 
 ---
 
